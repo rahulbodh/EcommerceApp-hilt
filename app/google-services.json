@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "351713961824",
+    "firebase_url": "https://fir-demo-ff896-default-rtdb.firebaseio.com",
+    "project_id": "fir-demo-ff896",
+    "storage_bucket": "fir-demo-ff896.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351713961824:android:c204d14ae95b22718a2005",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_hilt.di"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVgLRk7J9QhvQM7Ov_p7RjRkzy2dsZsx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
